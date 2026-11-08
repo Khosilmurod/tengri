@@ -1,0 +1,22 @@
+{
+  "id": "SouthCentral",
+  "label": "South Central",
+  "format": 2,
+  "edgeMethod": "feature-and-axis-contours",
+  "file": "SouthCentral.bin.gz",
+  "bounds": [
+    -19.100000381469727,
+    -0.20999999344348907,
+    21.600000381469727,
+    19.100000381469727,
+    24.079999923706055,
+    50.79999923706055
+  ],
+  "objects": 4793,
+  "sourceTriangles": 3035264,
+  "triangles": 746003,
+  "segments": 80000,
+  "bytes": 405212,
+  "sourceFile": "FalconGasPlant-SouthCentral.glb",
+  "sourceSha256": "443545864095bdba58f8898ace55441e9f32ae3114f4e2c18bf03cbabfa37496"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "SouthEast",
+  "label": "South East",
+  "format": 2,
+  "edgeMethod": "feature-and-axis-contours",
+  "file": "SouthEast.bin.gz",
+  "bounds": [
+    26.100000381469727,
+    -0.33500000834465027,
+    57.79999923706055,
+    63.79999923706055,
+    11.335229873657227,
+    87
+  ],
+  "objects": 340,
+  "sourceTriangles": 867798,
+  "triangles": 225748,
+  "segments": 14197,
+  "bytes": 65860,
+  "sourceFile": "FalconGasPlant-SouthEast.glb",
+  "sourceSha256": "a97c83b99cec8a4d3b617da6c514344a84a8b3dd72a63c73a94cb462019d5049"
+}

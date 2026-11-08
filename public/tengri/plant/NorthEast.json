@@ -1,0 +1,22 @@
+{
+  "id": "NorthEast",
+  "label": "North East",
+  "format": 2,
+  "edgeMethod": "feature-and-axis-contours",
+  "file": "NorthEast.bin.gz",
+  "bounds": [
+    26.100000381469727,
+    -0.33500000834465027,
+    -87,
+    63.79999923706055,
+    30.58259391784668,
+    -57.79999923706055
+  ],
+  "objects": 1672,
+  "sourceTriangles": 5190912,
+  "triangles": 1031871,
+  "segments": 58685,
+  "bytes": 308496,
+  "sourceFile": "FalconGasPlant-NorthEast.glb",
+  "sourceSha256": "cb6d932cd75a3c4dbd8a8bf32ab4325b6d03eb66b465a1b053d650a30d793fc9"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "SouthMidWest",
+  "label": "South Mid West",
+  "format": 2,
+  "edgeMethod": "feature-and-axis-contours",
+  "file": "SouthMidWest.bin.gz",
+  "bounds": [
+    -63.79999923706055,
+    -0.33500000834465027,
+    21.600000381469727,
+    -26.100000381469727,
+    12.449999809265137,
+    50.79999923706055
+  ],
+  "objects": 312,
+  "sourceTriangles": 973652,
+  "triangles": 166691,
+  "segments": 19589,
+  "bytes": 102356,
+  "sourceFile": "FalconGasPlant-SouthMidWest.glb",
+  "sourceSha256": "c5bfdbba1e7880b910253d24e5de576fed1ee562fb5c3df725a1ce468febb37a"
+}

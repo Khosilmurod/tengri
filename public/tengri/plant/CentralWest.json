@@ -1,0 +1,22 @@
+{
+  "id": "CentralWest",
+  "label": "Central West",
+  "format": 2,
+  "edgeMethod": "feature-and-axis-contours",
+  "file": "CentralWest.bin.gz",
+  "bounds": [
+    -63.79999923706055,
+    -0.36900028586387634,
+    -14.600000381469727,
+    -26.100000381469727,
+    26.365331649780273,
+    14.600000381469727
+  ],
+  "objects": 1457,
+  "sourceTriangles": 5592564,
+  "triangles": 939980,
+  "segments": 80000,
+  "bytes": 506047,
+  "sourceFile": "FalconGasPlant-CentralWest.glb",
+  "sourceSha256": "f44ac7e9acedb08ca310888520a4d519dcf4f0cb2588655fefb0b26481c18033"
+}

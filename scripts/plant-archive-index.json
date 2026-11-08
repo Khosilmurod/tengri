@@ -1,0 +1,121 @@
+[
+  {
+    "name": "FalconGasPlant-SouthWest.glb",
+    "compressed": 7185460,
+    "bytes": 16872032,
+    "offset": 0,
+    "method": 8
+  },
+  {
+    "name": "FalconGasPlant.glb",
+    "compressed": 519522069,
+    "bytes": 1127232788,
+    "offset": 7185566,
+    "method": 8
+  },
+  {
+    "name": "FalconGasPlant-CentralCentral.glb",
+    "compressed": 53945338,
+    "bytes": 109777140,
+    "offset": 526707731,
+    "method": 8
+  },
+  {
+    "name": "FalconGasPlant-CentralEast.glb",
+    "compressed": 58659702,
+    "bytes": 112148300,
+    "offset": 580653180,
+    "method": 8
+  },
+  {
+    "name": "FalconGasPlant-CentralWest.glb",
+    "compressed": 61327600,
+    "bytes": 118450084,
+    "offset": 639312990,
+    "method": 8
+  },
+  {
+    "name": "FalconGasPlant-Infrastructure.glb",
+    "compressed": 74680694,
+    "bytes": 171131148,
+    "offset": 700640698,
+    "method": 8
+  },
+  {
+    "name": "FalconGasPlant-NorthCentral.glb",
+    "compressed": 8136010,
+    "bytes": 20479324,
+    "offset": 775321503,
+    "method": 8
+  },
+  {
+    "name": "FalconGasPlant-NorthEast.glb",
+    "compressed": 44183678,
+    "bytes": 97202904,
+    "offset": 783457622,
+    "method": 8
+  },
+  {
+    "name": "FalconGasPlant-NorthMidCentral.glb",
+    "compressed": 59227158,
+    "bytes": 110934612,
+    "offset": 827641406,
+    "method": 8
+  },
+  {
+    "name": "FalconGasPlant-NorthMidEast.glb",
+    "compressed": 10809793,
+    "bytes": 26613668,
+    "offset": 886868676,
+    "method": 8
+  },
+  {
+    "name": "FalconGasPlant-NorthMidWest.glb",
+    "compressed": 11832527,
+    "bytes": 34103024,
+    "offset": 897678578,
+    "method": 8
+  },
+  {
+    "name": "FalconGasPlant-NorthWest.glb",
+    "compressed": 42407581,
+    "bytes": 93377940,
+    "offset": 909511214,
+    "method": 8
+  },
+  {
+    "name": "FalconGasPlant-SouthCentral.glb",
+    "compressed": 36028440,
+    "bytes": 99720252,
+    "offset": 951918901,
+    "method": 8
+  },
+  {
+    "name": "FalconGasPlant-SouthCentralGas.glb",
+    "compressed": 37322627,
+    "bytes": 76681100,
+    "offset": 987947450,
+    "method": 8
+  },
+  {
+    "name": "FalconGasPlant-SouthEast.glb",
+    "compressed": 8078782,
+    "bytes": 19790248,
+    "offset": 1025270189,
+    "method": 8
+  },
+  {
+    "name": "FalconGasPlant-SouthMidEast.glb",
+    "compressed": 14183440,
+    "bytes": 31185560,
+    "offset": 1033349077,
+    "method": 8
+  },
+  {
+    "name": "FalconGasPlant-SouthMidWest.glb",
+    "compressed": 9804988,
+    "bytes": 20551428,
+    "offset": 1047532626,
+    "method": 8
+  }
+]

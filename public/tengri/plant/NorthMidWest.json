@@ -1,0 +1,22 @@
+{
+  "id": "NorthMidWest",
+  "label": "North Mid West",
+  "format": 2,
+  "edgeMethod": "feature-and-axis-contours",
+  "file": "NorthMidWest.bin.gz",
+  "bounds": [
+    -63.79999923706055,
+    -0.33500000834465027,
+    -50.79999923706055,
+    -26.100000381469727,
+    13.75999927520752,
+    -21.600000381469727
+  ],
+  "objects": 777,
+  "sourceTriangles": 1539832,
+  "triangles": 557918,
+  "segments": 29268,
+  "bytes": 150586,
+  "sourceFile": "FalconGasPlant-NorthMidWest.glb",
+  "sourceSha256": "62574f0e7b536dc88fe798740bb9bc7a8c5db465ec9ae09b1b89f0d5fd6f523b"
+}

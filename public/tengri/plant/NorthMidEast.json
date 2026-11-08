@@ -1,0 +1,22 @@
+{
+  "id": "NorthMidEast",
+  "label": "North Mid East",
+  "format": 2,
+  "edgeMethod": "feature-and-axis-contours",
+  "file": "NorthMidEast.bin.gz",
+  "bounds": [
+    26.100000381469727,
+    -0.33500000834465027,
+    -50.79999923706055,
+    63.79999923706055,
+    15.960000038146973,
+    -21.600000381469727
+  ],
+  "objects": 359,
+  "sourceTriangles": 1074432,
+  "triangles": 345792,
+  "segments": 28256,
+  "bytes": 173213,
+  "sourceFile": "FalconGasPlant-NorthMidEast.glb",
+  "sourceSha256": "52a9f651b79b814585c17d70f0f2ac39902cfd573b3203cf87f2959f55465d9d"
+}

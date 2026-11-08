@@ -1,0 +1,22 @@
+{
+  "id": "Infrastructure",
+  "label": "Infrastructure",
+  "format": 2,
+  "edgeMethod": "feature-and-axis-contours",
+  "file": "Infrastructure.bin.gz",
+  "bounds": [
+    -73,
+    -1.6788225173950195,
+    -96.19999694824219,
+    73,
+    6.449999809265137,
+    96.19999694824219
+  ],
+  "objects": 4562,
+  "sourceTriangles": 5735852,
+  "triangles": 1245300,
+  "segments": 80000,
+  "bytes": 439928,
+  "sourceFile": "FalconGasPlant-Infrastructure.glb",
+  "sourceSha256": "c095cba7314c588476043c87eebcbcc4c9455b8280f8747609af65ec9a5a96dd"
+}

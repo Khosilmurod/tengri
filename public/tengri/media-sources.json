@@ -1,0 +1,21 @@
+{
+  "hero": {
+    "title": "High-tech robots assembling a car in a modern factory",
+    "creator": "Hyundai Motor Group",
+    "page": "https://www.pexels.com/photo/assembling-machines-in-factory-19233057/",
+    "sourceImage": "https://images.pexels.com/photos/19233057/pexels-photo-19233057/free-photo-of-assembling-machines-in-factory.jpeg",
+    "license": "Pexels License",
+    "licenseUrl": "https://www.pexels.com/license/",
+    "retrieved": "2026-11-07",
+    "sourceDimensions": "1920×1280",
+    "adaptation": "Center-cropped to 16:9, muted color and contrast adjusted, encoded as a 2400×1350 WebP. Slow, restrained motion is applied in CSS.",
+    "usage": "Illustrative factory robotics image. No claim of Tengri deployment or Hyundai endorsement.",
+    "files": [
+      {
+        "file": "public/tengri/robotics-hero.webp",
+        "bytes": 417366,
+        "sha256": "92074b01d093166db8510302dc6d119310150568517700596dc499138d2a9b66"
+      }
+    ]
+  }
+}

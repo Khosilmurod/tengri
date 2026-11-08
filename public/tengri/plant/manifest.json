@@ -1,0 +1,483 @@
+{
+  "name": "Falcon Gas Processing Plant",
+  "creator": "Stefan Johnsen",
+  "license": "CC0-1.0",
+  "source": "https://github.com/StefanJohnsen/FalconGasProcessingPlant",
+  "description": "A complete fictional industrial plant published as an open 3D reference dataset. Optimized for web display; not a surveyed Tengri site.",
+  "zones": [
+    {
+      "id": "SouthWest",
+      "label": "South West",
+      "format": 2,
+      "edgeMethod": "feature-and-axis-contours",
+      "file": "SouthWest.bin.gz",
+      "bounds": [
+        -63.79999923706055,
+        -0.33500000834465027,
+        57.79999923706055,
+        -26.100000381469727,
+        11.335229873657227,
+        87
+      ],
+      "objects": 329,
+      "sourceTriangles": 838766,
+      "triangles": 200633,
+      "segments": 13869,
+      "bytes": 63791,
+      "sourceFile": "FalconGasPlant-SouthWest.glb",
+      "sourceSha256": "c10df2e5d13607f660ae563f9849d87815a4b19422c33fda11bf765cec0c245f",
+      "surface": {
+        "method": "solid-lod-v1",
+        "file": "SouthWest.surface.bin.gz",
+        "vertices": 4687,
+        "triangles": 7821,
+        "bytes": 51623
+      }
+    },
+    {
+      "id": "CentralCentral",
+      "label": "Central Central",
+      "format": 2,
+      "edgeMethod": "feature-and-axis-contours",
+      "file": "CentralCentral.bin.gz",
+      "bounds": [
+        -19.100000381469727,
+        -0.44999998807907104,
+        -14.600000381469727,
+        19.100000381469727,
+        32.15999984741211,
+        14.600000381469727
+      ],
+      "objects": 1275,
+      "sourceTriangles": 5328112,
+      "triangles": 830997,
+      "segments": 80000,
+      "bytes": 499595,
+      "sourceFile": "FalconGasPlant-CentralCentral.glb",
+      "sourceSha256": "3658e14926818663b529b9b57dd0b731a0781dfce8a6324db06d397d96886c28",
+      "surface": {
+        "method": "solid-lod-v1",
+        "file": "CentralCentral.surface.bin.gz",
+        "vertices": 30125,
+        "triangles": 49042,
+        "bytes": 331283
+      }
+    },
+    {
+      "id": "CentralEast",
+      "label": "Central East",
+      "format": 2,
+      "edgeMethod": "feature-and-axis-contours",
+      "file": "CentralEast.bin.gz",
+      "bounds": [
+        26.100000381469727,
+        -0.5085001587867737,
+        -14.600000381469727,
+        63.79999923706055,
+        36.338768005371094,
+        14.600000381469727
+      ],
+      "objects": 1287,
+      "sourceTriangles": 5327300,
+      "triangles": 838202,
+      "segments": 80000,
+      "bytes": 498915,
+      "sourceFile": "FalconGasPlant-CentralEast.glb",
+      "sourceSha256": "5d03689689d858516e6548a58b7f587ce799d5b3366d98b10db09ea974faa6e7",
+      "surface": {
+        "method": "solid-lod-v1",
+        "file": "CentralEast.surface.bin.gz",
+        "vertices": 34115,
+        "triangles": 55968,
+        "bytes": 372863
+      }
+    },
+    {
+      "id": "CentralWest",
+      "label": "Central West",
+      "format": 2,
+      "edgeMethod": "feature-and-axis-contours",
+      "file": "CentralWest.bin.gz",
+      "bounds": [
+        -63.79999923706055,
+        -0.36900028586387634,
+        -14.600000381469727,
+        -26.100000381469727,
+        26.365331649780273,
+        14.600000381469727
+      ],
+      "objects": 1457,
+      "sourceTriangles": 5592564,
+      "triangles": 939980,
+      "segments": 80000,
+      "bytes": 506047,
+      "sourceFile": "FalconGasPlant-CentralWest.glb",
+      "sourceSha256": "f44ac7e9acedb08ca310888520a4d519dcf4f0cb2588655fefb0b26481c18033",
+      "surface": {
+        "method": "solid-lod-v1",
+        "file": "CentralWest.surface.bin.gz",
+        "vertices": 31825,
+        "triangles": 51095,
+        "bytes": 346624
+      }
+    },
+    {
+      "id": "Infrastructure",
+      "label": "Infrastructure",
+      "format": 2,
+      "edgeMethod": "feature-and-axis-contours",
+      "file": "Infrastructure.bin.gz",
+      "bounds": [
+        -73,
+        -1.6788225173950195,
+        -96.19999694824219,
+        73,
+        6.449999809265137,
+        96.19999694824219
+      ],
+      "objects": 4562,
+      "sourceTriangles": 5735852,
+      "triangles": 1245300,
+      "segments": 80000,
+      "bytes": 439928,
+      "sourceFile": "FalconGasPlant-Infrastructure.glb",
+      "sourceSha256": "c095cba7314c588476043c87eebcbcc4c9455b8280f8747609af65ec9a5a96dd",
+      "surface": {
+        "method": "solid-lod-v1",
+        "file": "Infrastructure.surface.bin.gz",
+        "vertices": 49836,
+        "triangles": 66141,
+        "bytes": 462763
+      }
+    },
+    {
+      "id": "NorthCentral",
+      "label": "North Central",
+      "format": 2,
+      "edgeMethod": "feature-and-axis-contours",
+      "file": "NorthCentral.bin.gz",
+      "bounds": [
+        -19.100000381469727,
+        -0.33500000834465027,
+        -87,
+        19.100000381469727,
+        11.338802337646484,
+        -57.79999923706055
+      ],
+      "objects": 382,
+      "sourceTriangles": 876540,
+      "triangles": 230009,
+      "segments": 14722,
+      "bytes": 68630,
+      "sourceFile": "FalconGasPlant-NorthCentral.glb",
+      "sourceSha256": "db252a3a7229a78abe2cd03c1753312e0f7ab1e11fbc095187a19b62f607bd6d",
+      "surface": {
+        "method": "solid-lod-v1",
+        "file": "NorthCentral.surface.bin.gz",
+        "vertices": 5249,
+        "triangles": 8503,
+        "bytes": 57130
+      }
+    },
+    {
+      "id": "NorthEast",
+      "label": "North East",
+      "format": 2,
+      "edgeMethod": "feature-and-axis-contours",
+      "file": "NorthEast.bin.gz",
+      "bounds": [
+        26.100000381469727,
+        -0.33500000834465027,
+        -87,
+        63.79999923706055,
+        30.58259391784668,
+        -57.79999923706055
+      ],
+      "objects": 1672,
+      "sourceTriangles": 5190912,
+      "triangles": 1031871,
+      "segments": 58685,
+      "bytes": 308496,
+      "sourceFile": "FalconGasPlant-NorthEast.glb",
+      "sourceSha256": "cb6d932cd75a3c4dbd8a8bf32ab4325b6d03eb66b465a1b053d650a30d793fc9",
+      "surface": {
+        "method": "solid-lod-v1",
+        "file": "NorthEast.surface.bin.gz",
+        "vertices": 27944,
+        "triangles": 45631,
+        "bytes": 297338
+      }
+    },
+    {
+      "id": "NorthMidCentral",
+      "label": "North Mid Central",
+      "format": 2,
+      "edgeMethod": "feature-and-axis-contours",
+      "file": "NorthMidCentral.bin.gz",
+      "bounds": [
+        -19.100000381469727,
+        -0.41850000619888306,
+        -50.79999923706055,
+        19.100000381469727,
+        29.907129287719727,
+        -21.600000381469727
+      ],
+      "objects": 1242,
+      "sourceTriangles": 5369870,
+      "triangles": 796416,
+      "segments": 80000,
+      "bytes": 504024,
+      "sourceFile": "FalconGasPlant-NorthMidCentral.glb",
+      "sourceSha256": "09e97a9fab6bb0da85adb29fb58dbc9ae24dfada3dd78bedda371f876ab0a5e6",
+      "surface": {
+        "method": "solid-lod-v1",
+        "file": "NorthMidCentral.surface.bin.gz",
+        "vertices": 31729,
+        "triangles": 51211,
+        "bytes": 346759
+      }
+    },
+    {
+      "id": "NorthMidEast",
+      "label": "North Mid East",
+      "format": 2,
+      "edgeMethod": "feature-and-axis-contours",
+      "file": "NorthMidEast.bin.gz",
+      "bounds": [
+        26.100000381469727,
+        -0.33500000834465027,
+        -50.79999923706055,
+        63.79999923706055,
+        15.960000038146973,
+        -21.600000381469727
+      ],
+      "objects": 359,
+      "sourceTriangles": 1074432,
+      "triangles": 345792,
+      "segments": 28256,
+      "bytes": 173213,
+      "sourceFile": "FalconGasPlant-NorthMidEast.glb",
+      "sourceSha256": "52a9f651b79b814585c17d70f0f2ac39902cfd573b3203cf87f2959f55465d9d",
+      "surface": {
+        "method": "solid-lod-v1",
+        "file": "NorthMidEast.surface.bin.gz",
+        "vertices": 8196,
+        "triangles": 13133,
+        "bytes": 88994
+      }
+    },
+    {
+      "id": "NorthMidWest",
+      "label": "North Mid West",
+      "format": 2,
+      "edgeMethod": "feature-and-axis-contours",
+      "file": "NorthMidWest.bin.gz",
+      "bounds": [
+        -63.79999923706055,
+        -0.33500000834465027,
+        -50.79999923706055,
+        -26.100000381469727,
+        13.75999927520752,
+        -21.600000381469727
+      ],
+      "objects": 777,
+      "sourceTriangles": 1539832,
+      "triangles": 557918,
+      "segments": 29268,
+      "bytes": 150586,
+      "sourceFile": "FalconGasPlant-NorthMidWest.glb",
+      "sourceSha256": "62574f0e7b536dc88fe798740bb9bc7a8c5db465ec9ae09b1b89f0d5fd6f523b",
+      "surface": {
+        "method": "solid-lod-v1",
+        "file": "NorthMidWest.surface.bin.gz",
+        "vertices": 9321,
+        "triangles": 14914,
+        "bytes": 99400
+      }
+    },
+    {
+      "id": "NorthWest",
+      "label": "North West",
+      "format": 2,
+      "edgeMethod": "feature-and-axis-contours",
+      "file": "NorthWest.bin.gz",
+      "bounds": [
+        -63.79999923706055,
+        -0.33500000834465027,
+        -87,
+        -26.100000381469727,
+        31.580461502075195,
+        -57.79999923706055
+      ],
+      "objects": 1594,
+      "sourceTriangles": 4958482,
+      "triangles": 997639,
+      "segments": 56461,
+      "bytes": 296516,
+      "sourceFile": "FalconGasPlant-NorthWest.glb",
+      "sourceSha256": "df42f3ac69dc86913e6cb2c8e32043c65dcee2a4e7011ec6f459820573af25e2",
+      "surface": {
+        "method": "solid-lod-v1",
+        "file": "NorthWest.surface.bin.gz",
+        "vertices": 26833,
+        "triangles": 43640,
+        "bytes": 285877
+      }
+    },
+    {
+      "id": "SouthCentral",
+      "label": "South Central",
+      "format": 2,
+      "edgeMethod": "feature-and-axis-contours",
+      "file": "SouthCentral.bin.gz",
+      "bounds": [
+        -19.100000381469727,
+        -0.20999999344348907,
+        21.600000381469727,
+        19.100000381469727,
+        24.079999923706055,
+        50.79999923706055
+      ],
+      "objects": 4793,
+      "sourceTriangles": 3035264,
+      "triangles": 746003,
+      "segments": 80000,
+      "bytes": 405212,
+      "sourceFile": "FalconGasPlant-SouthCentral.glb",
+      "sourceSha256": "443545864095bdba58f8898ace55441e9f32ae3114f4e2c18bf03cbabfa37496",
+      "surface": {
+        "method": "solid-lod-v1",
+        "file": "SouthCentral.surface.bin.gz",
+        "vertices": 27827,
+        "triangles": 37580,
+        "bytes": 245247
+      }
+    },
+    {
+      "id": "SouthCentralGas",
+      "label": "South Central Gas",
+      "format": 2,
+      "edgeMethod": "feature-and-axis-contours",
+      "file": "SouthCentralGas.bin.gz",
+      "bounds": [
+        -19.100000381469727,
+        -0.20999999344348907,
+        57.79999923706055,
+        19.100000381469727,
+        6.449999809265137,
+        87
+      ],
+      "objects": 1415,
+      "sourceTriangles": 3399866,
+      "triangles": 483250,
+      "segments": 52762,
+      "bytes": 266354,
+      "sourceFile": "FalconGasPlant-SouthCentralGas.glb",
+      "sourceSha256": "34b2fbfa6c9983f951bd88fb483bb08c96e3c28e7be3b663a71acf52617901c8",
+      "surface": {
+        "method": "solid-lod-v1",
+        "file": "SouthCentralGas.surface.bin.gz",
+        "vertices": 16732,
+        "triangles": 26808,
+        "bytes": 172140
+      }
+    },
+    {
+      "id": "SouthEast",
+      "label": "South East",
+      "format": 2,
+      "edgeMethod": "feature-and-axis-contours",
+      "file": "SouthEast.bin.gz",
+      "bounds": [
+        26.100000381469727,
+        -0.33500000834465027,
+        57.79999923706055,
+        63.79999923706055,
+        11.335229873657227,
+        87
+      ],
+      "objects": 340,
+      "sourceTriangles": 867798,
+      "triangles": 225748,
+      "segments": 14197,
+      "bytes": 65860,
+      "sourceFile": "FalconGasPlant-SouthEast.glb",
+      "sourceSha256": "a97c83b99cec8a4d3b617da6c514344a84a8b3dd72a63c73a94cb462019d5049",
+      "surface": {
+        "method": "solid-lod-v1",
+        "file": "SouthEast.surface.bin.gz",
+        "vertices": 4807,
+        "triangles": 7981,
+        "bytes": 53065
+      }
+    },
+    {
+      "id": "SouthMidEast",
+      "label": "South Mid East",
+      "format": 2,
+      "edgeMethod": "feature-and-axis-contours",
+      "file": "SouthMidEast.bin.gz",
+      "bounds": [
+        26.100000381469727,
+        -0.33500000834465027,
+        21.600000381469727,
+        63.79999923706055,
+        23.75,
+        50.79999923706055
+      ],
+      "objects": 342,
+      "sourceTriangles": 1536740,
+      "triangles": 299463,
+      "segments": 25643,
+      "bytes": 137309,
+      "sourceFile": "FalconGasPlant-SouthMidEast.glb",
+      "sourceSha256": "76241493a4b37f558c4c1e549b03c2d6f350ffa74e030f3841ec13e1557bfcdd",
+      "surface": {
+        "method": "solid-lod-v1",
+        "file": "SouthMidEast.surface.bin.gz",
+        "vertices": 9484,
+        "triangles": 15584,
+        "bytes": 104648
+      }
+    },
+    {
+      "id": "SouthMidWest",
+      "label": "South Mid West",
+      "format": 2,
+      "edgeMethod": "feature-and-axis-contours",
+      "file": "SouthMidWest.bin.gz",
+      "bounds": [
+        -63.79999923706055,
+        -0.33500000834465027,
+        21.600000381469727,
+        -26.100000381469727,
+        12.449999809265137,
+        50.79999923706055
+      ],
+      "objects": 312,
+      "sourceTriangles": 973652,
+      "triangles": 166691,
+      "segments": 19589,
+      "bytes": 102356,
+      "sourceFile": "FalconGasPlant-SouthMidWest.glb",
+      "sourceSha256": "c5bfdbba1e7880b910253d24e5de576fed1ee562fb5c3df725a1ce468febb37a",
+      "surface": {
+        "method": "solid-lod-v1",
+        "file": "SouthMidWest.surface.bin.gz",
+        "vertices": 6991,
+        "triangles": 10725,
+        "bytes": 76843
+      }
+    }
+  ],
+  "bounds": [
+    -73,
+    -1.6788225173950195,
+    -96.19999694824219,
+    73,
+    36.338768005371094,
+    96.19999694824219
+  ],
+  "triangles": 9935912,
+  "segments": 793452
+}

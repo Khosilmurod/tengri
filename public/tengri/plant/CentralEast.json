@@ -1,0 +1,22 @@
+{
+  "id": "CentralEast",
+  "label": "Central East",
+  "format": 2,
+  "edgeMethod": "feature-and-axis-contours",
+  "file": "CentralEast.bin.gz",
+  "bounds": [
+    26.100000381469727,
+    -0.5085001587867737,
+    -14.600000381469727,
+    63.79999923706055,
+    36.338768005371094,
+    14.600000381469727
+  ],
+  "objects": 1287,
+  "sourceTriangles": 5327300,
+  "triangles": 838202,
+  "segments": 80000,
+  "bytes": 498915,
+  "sourceFile": "FalconGasPlant-CentralEast.glb",
+  "sourceSha256": "5d03689689d858516e6548a58b7f587ce799d5b3366d98b10db09ea974faa6e7"
+}

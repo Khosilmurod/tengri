@@ -1,0 +1,22 @@
+{
+  "id": "NorthWest",
+  "label": "North West",
+  "format": 2,
+  "edgeMethod": "feature-and-axis-contours",
+  "file": "NorthWest.bin.gz",
+  "bounds": [
+    -63.79999923706055,
+    -0.33500000834465027,
+    -87,
+    -26.100000381469727,
+    31.580461502075195,
+    -57.79999923706055
+  ],
+  "objects": 1594,
+  "sourceTriangles": 4958482,
+  "triangles": 997639,
+  "segments": 56461,
+  "bytes": 296516,
+  "sourceFile": "FalconGasPlant-NorthWest.glb",
+  "sourceSha256": "df42f3ac69dc86913e6cb2c8e32043c65dcee2a4e7011ec6f459820573af25e2"
+}
